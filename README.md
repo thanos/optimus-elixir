@@ -1,4 +1,4 @@
-# optimus-elixir
+# OptimusElixir
 
 Id obfuscation based on Knuth's multiplicative Hashing Algorithm for Elixir. This library can be used to encode primary keys, for example of your customers, so that the numbers can be safely exposed, such as in a url.
 
