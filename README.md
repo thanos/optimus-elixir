@@ -16,7 +16,7 @@ What you will need is:
  ```Add Hashids as a dependency to your Mix project:
 
 defp deps do
-  [{:optimusid, "~> 1.0"}]
+  [{:optimus_id, "~> 1.0"}]
 end```
  
  
